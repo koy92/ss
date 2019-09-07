@@ -1,0 +1,6 @@
+2019-08-29T00:46:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\functions.php на строке 5571
+
+2019-08-29T09:07:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-content\plugins\user-registration\includes\functions-ur-template.php на строке 13
+
+2019-08-29T09:07:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-regenerate-images-request.php на строке 12
+

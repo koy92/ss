@@ -1,0 +1,52 @@
+2019-08-20T16:22:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\Transport\cURL.php на строке 463
+
+2019-08-20T16:37:55+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php:796
+Stack trace:
+#0 C:\xampp\htdocs\ss\wp-includes\class-wp-hook.php(286): shopical_add_to_cart_text('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#1 C:\xampp\htdocs\ss\wp-includes\plugin.php(208): WP_Hook->apply_filters('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Array)
+#2 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', '\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(475): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(448): Automattic\WooCommerce\Blocks\BlockTypes\Abstr в C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php на строке 796
+
+2019-08-20T19:11:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\Transport\cURL.php на строке 163
+
+2019-08-20T19:12:19+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php:796
+Stack trace:
+#0 C:\xampp\htdocs\ss\wp-includes\class-wp-hook.php(286): shopical_add_to_cart_text('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#1 C:\xampp\htdocs\ss\wp-includes\plugin.php(208): WP_Hook->apply_filters('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Array)
+#2 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', '\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(475): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(448): Automattic\WooCommerce\Blocks\BlockTypes\Abstr в C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php на строке 796
+
+2019-08-20T19:12:28+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php:796
+Stack trace:
+#0 C:\xampp\htdocs\ss\wp-includes\class-wp-hook.php(286): shopical_add_to_cart_text('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#1 C:\xampp\htdocs\ss\wp-includes\plugin.php(208): WP_Hook->apply_filters('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Array)
+#2 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', '\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(475): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(448): Automattic\WooCommerce\Blocks\BlockTypes\Abstr в C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php на строке 796
+
+2019-08-20T19:12:28+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php:796
+Stack trace:
+#0 C:\xampp\htdocs\ss\wp-includes\class-wp-hook.php(286): shopical_add_to_cart_text('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#1 C:\xampp\htdocs\ss\wp-includes\plugin.php(208): WP_Hook->apply_filters('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Array)
+#2 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', '\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(475): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(448): Automattic\WooCommerce\Blocks\BlockTypes\Abstr в C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php на строке 796
+
+2019-08-20T19:12:29+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php:796
+Stack trace:
+#0 C:\xampp\htdocs\ss\wp-includes\class-wp-hook.php(286): shopical_add_to_cart_text('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#1 C:\xampp\htdocs\ss\wp-includes\plugin.php(208): WP_Hook->apply_filters('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Array)
+#2 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', '\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(475): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(448): Automattic\WooCommerce\Blocks\BlockTypes\Abstr в C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php на строке 796
+
+2019-08-20T19:13:24+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php:796
+Stack trace:
+#0 C:\xampp\htdocs\ss\wp-includes\class-wp-hook.php(286): shopical_add_to_cart_text('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#1 C:\xampp\htdocs\ss\wp-includes\plugin.php(208): WP_Hook->apply_filters('\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Array)
+#2 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-product-simple.php(55): apply_filters('woocommerce_pro...', '\xD0\x92 \xD0\xBA\xD0\xBE\xD1\x80\xD0\xB7\xD0\xB8\xD0\xBD...', Object(WC_Product_Simple))
+#3 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(475): WC_Product_Simple->add_to_cart_text()
+#4 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(448): Automattic\WooCommerce\Blocks\BlockTypes\Abstr в C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php на строке 796
+

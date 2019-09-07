@@ -1,0 +1,11 @@
+2019-08-31T11:39:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-content\plugins\woocommerce-admin\src\Events.php на строке 11
+
+2019-08-31T11:39:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-content\plugins\yith-woocommerce-wishlist\includes\functions.yith-wcwl.php на строке 10
+
+2019-08-31T18:48:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-admin\custom-header.php на строке 14
+
+2019-08-31T18:49:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-content\plugins\woocommerce-admin\src\API\Reports\Import\Controller.php на строке 12
+
+2019-08-31T18:49:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\pomo\mo.php на строке 323
+
+

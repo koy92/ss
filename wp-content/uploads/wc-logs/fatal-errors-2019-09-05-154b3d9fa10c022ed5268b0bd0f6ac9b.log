@@ -1,0 +1,4 @@
+2019-09-05T17:00:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\Transport\cURL.php на строке 463
+
+2019-09-05T18:52:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-content\plugins\polylang\include\class-polylang.php на строке 100
+

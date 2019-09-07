@@ -1,0 +1,49 @@
+2019-09-04T08:43:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\wp-db.php на строке 2007
+
+2019-09-04T08:44:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\wp-db.php на строке 2007
+
+2019-09-04T08:54:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\Transport\cURL.php на строке 463
+
+2019-09-04T08:55:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\Transport\cURL.php на строке 463
+
+2019-09-04T09:03:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\Transport\cURL.php на строке 463
+
+2019-09-04T10:57:08+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on null in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php:792
+Stack trace:
+#0 C:\xampp\htdocs\ss\wp-includes\class-wp-hook.php(286): shopical_add_to_cart_text('Select options', Object(WC_Product_Variable))
+#1 C:\xampp\htdocs\ss\wp-includes\plugin.php(208): WP_Hook->apply_filters('Select options', Array)
+#2 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\class-wc-product-variable.php(60): apply_filters('woocommerce_pro...', 'Select options', Object(WC_Product_Variable))
+#3 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(475): WC_Product_Variable->add_to_cart_text()
+#4 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(448): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Variable))
+#5 C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\packages\woocom in C:\xampp\htdocs\ss\wp-content\themes\shopical\inc\woocommerce.php on line 792
+
+2019-09-04T20:22:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-includes\widgets\class-wp-widget-search.php on line 17
+
+2019-09-04T20:22:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-includes\widgets\class-wp-widget-search.php on line 17
+
+2019-09-04T20:22:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-includes\widgets\class-wp-widget-search.php on line 17
+
+2019-09-04T20:22:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-includes\widgets\class-wp-widget-search.php on line 17
+
+2019-09-04T20:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\one-click-demo-import\vendor\composer\ClassLoader.php on line 384
+
+2019-09-04T20:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\one-click-demo-import\vendor\composer\ClassLoader.php on line 384
+
+2019-09-04T20:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\woocommerce-admin\src\API\Reports\DataStore.php on line 10
+
+2019-09-04T20:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\woocommerce-admin\src\API\Reports\DataStore.php on line 10
+
+2019-09-04T20:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\woocommerce-admin\src\API\Reports\Customers\DataStore.php on line 10
+
+2019-09-04T20:23:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-settings.php on line 9
+
+2019-09-04T20:42:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\IRI.php на строке 66
+
+2019-09-04T21:39:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 79
+
+2019-09-04T21:39:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-rest-api.php on line 3
+
+2019-09-04T21:39:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 79
+
+2019-09-04T21:39:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ss\wp-includes\pomo\mo.php on line 280
+

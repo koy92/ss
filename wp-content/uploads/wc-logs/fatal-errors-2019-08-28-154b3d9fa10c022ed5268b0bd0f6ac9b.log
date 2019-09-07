@@ -1,0 +1,6 @@
+2019-08-28T14:07:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\l10n.php на строке 1262
+
+2019-08-28T14:07:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\functions.php на строке 5571
+
+2019-08-28T14:54:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\wp-db.php на строке 2007
+

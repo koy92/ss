@@ -1,0 +1,6 @@
+2019-09-06T07:25:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\wp-db.php на строке 2007
+
+2019-09-06T07:26:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\template.php на строке 664
+
+2019-09-06T07:45:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в C:\xampp\htdocs\ss\wp-includes\Requests\Transport\cURL.php на строке 441
+
